@@ -27,3 +27,7 @@ Requires macOS 13+ and Xcode command-line tools (Swift 5.9+).
 ## Ideas
 Configurable durations, custom hotkey recorder, launch at login
 (`SMAppService`), Sparkle updates.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
